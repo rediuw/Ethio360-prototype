@@ -1,4 +1,3 @@
-# Ethio360-prototype
 # 🌍 ETHIO360 - Virtual Heritage Experience
 
 Welcome to **ETHIO360**, an interactive design prototype showcasing Ethiopia’s rich historical landmarks in a modern, immersive way. Designed as part of our Interaction Design course, this prototype focuses on user experience, intuitive navigation, and multilingual accessibility.
@@ -26,4 +25,4 @@ This design was built collaboratively using Figma and follows modern UX principl
 > **Try exploring the site cards** — click and see how each reacts differently for a more immersive story!
 
 
-> Feel free to fork, explore, or leave feedback. Let’s preserve culture through design. 🇪🇹
+> Feel free to fork, explore, or leave feedback. Let’s preserve culture through design.
